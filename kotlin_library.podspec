@@ -2,7 +2,7 @@ Pod::Spec.new do |spec|
     spec.name                     = 'kotlin_library'
     spec.version                  = '1.0'
     spec.homepage                 = 'https://github.com/JetBrains/kotlin-native'
-    spec.source                   = { :git => "Not Published", :tag => "Cocoapods/#{spec.name}/#{spec.version}" }
+    spec.source                   = { :git => "https://github.com/alozhkin/kotlin-library" }
     spec.authors                  = ''
     spec.license                  = ''
     spec.summary                  = 'Working with AFNetworking from Kotlin/Native using CocoaPods'
